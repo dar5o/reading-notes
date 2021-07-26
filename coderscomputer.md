@@ -9,3 +9,10 @@ $pwd : __print working directory__ (current location)
 $ls : __list__ (this will list what is in your current directory)
 
 $cd : __change directory__ (this will let you move around in the system)
+
+>files cheat sheet
+
+1. .exe _(an executable file, or program)_
+2. .txt _(a plain text file)_
+3. .png, .gif, .jpg  _(an image)_
+
