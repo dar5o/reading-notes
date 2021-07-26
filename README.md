@@ -8,9 +8,7 @@ reading notes for class 102codefellows
 3. effort makes you stronger
 
 **having a _growth mindset_ means you believe your skills can be developed through hard work, good strategies, and input from others**
->test
->yea
->ok
-
++ yea
++ eawea
 
  
