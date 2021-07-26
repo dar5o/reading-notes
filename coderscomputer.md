@@ -3,6 +3,7 @@ the reason some people use IDE's compared to a basic editor is an integrated env
 *for example,* most if not all IDE's contain **debuggers** which are crucial to any coder and help you solve flaws you may have in your code.
 
 >terminal cheat sheet
+
 $pwd : __print working directory__ (current location)
 
 $ls : __list__ (this will list what is in your current directory)
