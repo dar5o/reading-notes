@@ -9,6 +9,9 @@ reading notes for class 102codefellows
 
 **having a _growth mindset_ means you believe your skills can be developed through hard work, good strategies, and input from others**
 
-## Second-level header
+##Second-level Header Text
 
+Some verbiage with *very exciting* language in it!
+
+Complete with a link to http://github.com
  
