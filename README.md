@@ -9,3 +9,10 @@ reading notes for class 102codefellows
 
 **having a _growth mindset_ means you believe your skills can be developed through hard work, good strategies, and input from others**
 
+### Table of contents
+>Coders Computer
++ [Click Here](coderscomputer.md)
+>Learning Markdown
++ [Click Here](learningmarkdown.md)
+>Revisions and the Cloud
++ [Click Here](revisions_cloud.md)
