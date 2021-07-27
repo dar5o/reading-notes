@@ -18,3 +18,6 @@ reading notes for class 102codefellows
 
 >Revisions and the Cloud
 + [Click Here](revisions_cloud.md)
+
+>Structure web pages with HTML
++ [Click Here](html_structure.md)
