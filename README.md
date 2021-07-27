@@ -12,7 +12,9 @@ reading notes for class 102codefellows
 ### Table of contents
 >Coders Computer
 + [Click Here](coderscomputer.md)
+
 >Learning Markdown
 + [Click Here](learningmarkdown.md)
+
 >Revisions and the Cloud
 + [Click Here](revisions_cloud.md)
