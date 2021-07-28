@@ -3,6 +3,7 @@
 + java script is a programming language that uses class functions and scripts/objects to run environments for webpages and executable files.
 
 >standard objects
+
 + array
     - Arrays are list-like objects whose prototype has methods to perform traversal and mutation operations. Since an array's length can change at any time, and data can be stored at non-contiguous locations in the array, JavaScript arrays are not guaranteed to be dense; this depends on how the programmer chooses to use them.
     *An example of a common array would be* 
@@ -29,6 +30,7 @@
     const string4 = new String("A String object");
 
 >next we have statements and declarations
+
 + if-else
     - The if statement executes a statement if a specified condition is truthy. If the condition is falsy, another statement can be executed.
     *An example of a common if-else statement would be*
