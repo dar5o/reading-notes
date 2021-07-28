@@ -21,3 +21,6 @@ reading notes for class 102codefellows
 
 >Structure web pages with HTML
 + [Click Here](html_structure.md)
+
+>CSS Styling
++ [Click Here](webdesign_css.md)
