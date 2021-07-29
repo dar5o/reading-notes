@@ -1,6 +1,6 @@
 [<Go Back](README.md)
-#Here are some notes for our functions reading
-> ##JavaScript has the following types of operators. 
+# Here are some notes for our functions reading
+> ## JavaScript has the following types of operators. 
 + Assignment operators
 + Comparison operators
 + Arithmetic operators
@@ -19,14 +19,14 @@ To make a function we are going to need a couple things
 + a list of paramaters to the function, enclosed in a parantheses and separated by commas
 + the javascript statements that define the function, enclosed in curly brackets
 
-> ##for example
+> ## for example
 >>function square(number) {
 >>  return number * number;
 >>}
 
-> ##The control flow is the order in which the computer executes statements in a script.
+> ## The control flow is the order in which the computer executes statements in a script.
 
->> ##for example
+>> ## for example
 >>> imagine a script used to validate user data from a webpage form. The script submits validated data, but if the user leaves a required field empty, the script prompts them to fill it in. To do this, the script uses a conditional structure or if...else, so that different code executes depending on whether the form is complete or not:
 >>>>if (field==empty) {
     promptUser();
