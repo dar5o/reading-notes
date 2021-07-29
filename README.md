@@ -30,3 +30,6 @@ reading notes for class 102codefellows
 
 >JavaScript Functions
 + [Click Here](fucntions.md)
+
+>JavaScript Operators and Loops
++ [Click Here](loops.md)
