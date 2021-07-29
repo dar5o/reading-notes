@@ -24,3 +24,9 @@ reading notes for class 102codefellows
 
 >CSS Styling
 + [Click Here](webdesign_css.md)
+
+>JavaScript Styling
++ [Click Here](webdesign_js.md)
+
+>JavaScript Functions
++ [Click Here](fucntions.md)
