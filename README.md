@@ -38,3 +38,6 @@ reading notes for class 102codefellows
 reading notes for class 201codefellows
 >Class1
 + [Click Here](class1.md)
+
+>Class2
++ [Click Here](class02.md)
