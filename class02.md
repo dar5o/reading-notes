@@ -38,10 +38,10 @@ css treats each html element as if it appears inside its own box and uses rules 
   + a script is a series of instructions that a computer can follow one-by-one 
   + a comment can be added to explain what your code does, they make your code easier to read and understand
   + variables are bits of information that can be used in scripts to get the job done
-    - >>variables have different data types 
+    - variables have different data types 
       + numeric
       + string
       + boolean
-    - >>an array is a special type of variable, it stores a list of values not just one
+    - an array is a special type of variable, it stores a list of values not just one
 
 loops can be used to check through arrays and match a value with an input from the user
