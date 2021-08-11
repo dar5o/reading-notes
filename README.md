@@ -41,3 +41,6 @@ reading notes for class 201codefellows
 
 >Class2
 + [Click Here](class02.md)
+
+>Class3
++ [Click Here](class03.md)
