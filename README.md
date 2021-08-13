@@ -47,3 +47,6 @@ reading notes for class 201codefellows
 
 Class4
 + [Click Here](class04.md)
+
+Class5
++ [Click Here](class05.md)
