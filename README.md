@@ -56,3 +56,6 @@ reading notes for class 201codefellows
 
 >Class7
 + [Click Here](class07.md)
+
+>Class8
++ [Click Here](class08.md)
