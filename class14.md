@@ -1,0 +1,6 @@
+# Reading for class 14
+
+>What google learned from its quest to build the perfect team
+[sources](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+
+Everyone is different in terms of how they think they will be succesful. Some feel the need to be part of community, others prefer isolation or individual work. For Rozovsky she felt under pressure in her study group. "I always felt like I had to prove myself." It is important to surround yourself with people that will help you grow as a person, that will make you be the best *you.* Competition can be good but it is not for everyone. "We’re living through a golden age of understanding personal productivity," says Marshall Van Alstyne, a professor at Boston University who studies how people share information. "All of a sudden, we can pick apart the small choices that all of us make, decisions most of us don’t even notice, and figure out why some people are so much more effective than everyone else."
