@@ -1,6 +1,5 @@
 # reading-notes
 reading notes for class 102codefellows
-## yea buddy
 
 > How to have a growth mindset
 1. be open to fail
@@ -10,6 +9,8 @@ reading notes for class 102codefellows
 **having a _growth mindset_ means you believe your skills can be developed through hard work, good strategies, and input from others**
 
 ### Table of contents
+
+## Code 102 - Intro to Software Development
 >Coders Computer
 + [Click Here](coderscomputer.md)
 
@@ -34,8 +35,7 @@ reading notes for class 102codefellows
 >JavaScript Operators and Loops
 + [Click Here](loops.md)
 
-# reading-notes
-reading notes for class 201codefellows
+## Code 201 - Foundations of Software Developmen
 >Class1
 + [Click Here](class1.md)
 
