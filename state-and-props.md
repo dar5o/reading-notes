@@ -1,9 +1,9 @@
 # Reading notes for class 2 of 301
 
 > react component diagram
-[React: Component Lifecycle events](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+> [React: Component Lifecycle events](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
-based off the diagram, 'render' would happen before 'comopnentDidMount.'
+*'render'* would happen before *'comopnentDidMount.'*
 
 the first thing to happen in the lifecycle of react is the constructor
 
@@ -17,9 +17,9 @@ order of how things happen:
 
 componentDidMount will run a method after mounting, load anything requiring a network request or initialize the DOM.
 
-> state vs props
+> state & props
 
-props can be anything you want passed down from the parent to the child, similar to function arguments. props are passed into a component while state is what stays in the component.
+props can be anything you want passed down from the parent to the child, almost like function arguments. props are passed into a component while state is what stays in the component.
 
 we re-render our application whenever state is changed.
 
