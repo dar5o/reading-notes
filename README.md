@@ -85,3 +85,6 @@ reading notes for class 102codefellows
 
 >Class1
 + [Click Here](react-and-components.md)
+
+>Class2
++ [Click Here](state-and-props.md)
