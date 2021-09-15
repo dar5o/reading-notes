@@ -88,3 +88,6 @@ reading notes for class 102codefellows
 
 >Class2
 + [Click Here](state-and-props.md)
+
+>Class3
++ [Click Here](lists-and-keys.md)
