@@ -14,6 +14,7 @@ storing the user response is more useful to do on submit, otherwise the value is
 with the ternary operator, you are allowed to have more functionality with less code involved.
 
 the following code is rewritten using a ternary statement:
+
 **original code**:
 ```js
 if(x===y){
