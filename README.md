@@ -94,3 +94,6 @@ reading notes for class 102codefellows
 
 >Class4
 + [Click Here](react-and-forms.md)
+
+>Class5
++ [Click Here](putting-it-all-together.md)
