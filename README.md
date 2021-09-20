@@ -97,3 +97,6 @@ reading notes for class 102codefellows
 
 >Class5
 + [Click Here](putting-it-all-together.md)
+
+>Class6
++ [Click Here](nodejs.md)
