@@ -100,3 +100,6 @@ reading notes for class 102codefellows
 
 >Class6
 + [Click Here](nodejs.md)
+
+>Class7
++ [Click Here](rest.md)
