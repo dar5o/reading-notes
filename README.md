@@ -103,3 +103,6 @@ reading notes for class 102codefellows
 
 >Class7
 + [Click Here](rest.md)
+
+>Class8
++ [Click Here](apis.md)
