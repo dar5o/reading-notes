@@ -106,3 +106,6 @@ reading notes for class 102codefellows
 
 >Class8
 + [Click Here](apis.md)
+
+>Class9
++ [Click Here](funcprog.md)
