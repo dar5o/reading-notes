@@ -1,6 +1,6 @@
 > functional programming
 
-functional programming is a programming paradigm, basically a style of building the structure and elements of computer programs. it treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data
+functional programming is basically a style of building the structure and elements of computer programs. it treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data
 
 a pure function is something that returns the same resulty if given the same arguments (also called deterministic) we know if something is a pure function of it does not cause any observable side effects
 
