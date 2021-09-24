@@ -109,3 +109,6 @@ reading notes for class 102codefellows
 
 >Class9
 + [Click Here](funcprog.md)
+
+>Class10
++ [Click Here](memory.md)
