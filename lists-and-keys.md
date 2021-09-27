@@ -44,6 +44,6 @@ using props, you can pass a method from parent to child component, similar to va
 
 using `this.prop.propfromparent`, the child component can access a method that was passed to it from a parent component.
 
-## Things i want to learn more
+# Things i want to learn more
 
 *advanced techniques of the spread operator*
