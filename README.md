@@ -124,3 +124,5 @@ reading notes for class 102codefellows
 
 >Class14a
 + [Click Here](auth.md)
+
+## Code 401 - Advanced Software Development in Full-Stack JavaScript
