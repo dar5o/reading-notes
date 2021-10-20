@@ -130,5 +130,8 @@ reading notes for class 102codefellows
 > Pre work
 + [Click Here](prework401.md)
 
->Class1
+> Class1
 + [Click Here](401-1.md)
+
+> Class2
++ [Click Here](401-2.md)
