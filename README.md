@@ -141,3 +141,9 @@ reading notes for class 102codefellows
 
 > Class4
 + [Click Here](401-4.md)
+
+> Class5
++ [Click Here](401-53.md)
+
+> Class6
++ [Click Here](401-6.md)
