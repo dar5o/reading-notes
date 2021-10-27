@@ -147,3 +147,6 @@ reading notes for class 102codefellows
 
 > Class6
 + [Click Here](401-6.md)
+
+> Class7
++ [Click Here](401-7.md)
