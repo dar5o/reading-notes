@@ -55,11 +55,27 @@ Data Structures are a specialized means of organizing and storing data in comput
     * Used to implement associative arrays.
     * Used to implement the “set” data structure.
 
-- ### Trees (TODO)
-- ### Graphs (TODO)
+- ### Trees
+  + A tree is a hierarchical structure where data is organized hierarchically and are linked together. This structure is different from a linked list whereas, in a linked list, items are linked in a linear order. Some examples of different types of trees are binary search tree, B tree, treap, red-black tree, splay tree, AVL tree and n-ary tree.
+  + Binary Search Trees
+    1. key: The value stored in the node.
+    2. left: The pointer to the left child.
+    3. right: The pointer to the right child.
+    4. p: The pointer to the parent node.
+  + Applications of trees
+    * Binary Trees: Used to implement expression parsers and expression solvers.
+    * Binary Search Tree: used in many search applications where data are constantly entering and leaving.
+    * Heaps: used by JVM (Java Virtual Machine) to store Java objects.
+    * Treaps: used in wireless networking.
 
-
-
+- ### Graphs
+  + A graph consists of a finite set of vertices or nodes and a set of edges connecting these vertices.
+  + The order of a graph is the number of vertices in the graph. The size of a graph is the number of edges in the graph.
+  + The order of a graph is the number of vertices in the graph. The size of a graph is the number of edges in the graph.
+  + Application of graphs
+    * Used to represent social media networks. Each user is a vertex, and when users connect they create an edge.
+    * Used to represent web pages and links by search engines. Web pages on the internet are linked to each other by hyperlinks. Each page is a vertex and the hyperlink between two pages is an edge. Used for Page Ranking in Google.
+    * Used to represent locations and routes in GPS. Locations are vertices and the routes connecting locations are edges. Used to calculate the shortest route between two locations.
 
 ##### What is data
 Data is classified into types, such as a set of whole numbers (also known as integers) or a set of printing characters.
