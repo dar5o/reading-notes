@@ -71,7 +71,7 @@ Data Structures are a specialized means of organizing and storing data in comput
 - ### Graphs
   + A graph consists of a finite set of vertices or nodes and a set of edges connecting these vertices.
   + The order of a graph is the number of vertices in the graph. The size of a graph is the number of edges in the graph.
-  + The order of a graph is the number of vertices in the graph. The size of a graph is the number of edges in the graph.
+  + Two nodes are said to be adjacent if they are connected to each other by the same edge.
   + Application of graphs
     * Used to represent social media networks. Each user is a vertex, and when users connect they create an edge.
     * Used to represent web pages and links by search engines. Web pages on the internet are linked to each other by hyperlinks. Each page is a vertex and the hyperlink between two pages is an edge. Used for Page Ranking in Google.
